@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mylle\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mylle\\.nuget\\packages"
+    ]
+  }
+}
